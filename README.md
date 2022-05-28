@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-<!--
-**pNovikau/pNovikau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+## 🏅 Achievements
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+### Languages
+
+### Front-End Development
+
+### Cross Platform Development
+
+### Design Tools
+
+### Testing
+
+## 🖥️ Workspace Setup
+
+## 📈 Stats
+
+## 🔗 Links
